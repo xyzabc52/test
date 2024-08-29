@@ -1,2 +1,10 @@
 2024년 빅데이터프로그래밍2
 -분산버전관리시스탬 파트1 GIT
+  init, status, log, add commit
+
+-리눅스 명령어1
+  pwd, ls, touch, cat
+
+2024년 C++2
+- 분산버전관리시스탬 파트2 GIT
+
